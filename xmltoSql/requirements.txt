@@ -1,0 +1,9 @@
+Http Server -Apache
+PHP
+Sqlite Library for php
+------------
+XAMPP has all of these requirements 
+you can download it for FREE 
+-------------
+
+The size of XML files is 842 KB verses  216 kb for Sqlite Database
